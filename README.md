@@ -6,10 +6,10 @@
 *   age : umur pasien
 *   sex : (1 = Male; 0 = female)
 *   cp : Mempresentasikan jenis nyeri dada yang dirasakan oleh pasien dan diberi 4 nilai kategori :
-        -- Value 0: typical angina atau angina stabil 
-        -- Value 1: atypical angina atau angina tidak stabil
-        -- Value 2: non-anginal pain atau nyeri dada yang bukan anginal
-        -- Value 3: asymptomatic atau tanpa gejala
+        * Value 0: typical angina atau angina stabil 
+        * Value 1: atypical angina atau angina tidak stabil
+        * Value 2: non-anginal pain atau nyeri dada yang bukan anginal
+        * Value 3: asymptomatic atau tanpa gejala
 *   trestbps : Tekanan darah normal mm/hg
 *   chol : Kadar kolestrol serum mm/dl
 *   fasting blood sugar > 120 mg/dl : FBS mengukur gula darah setelah Anda puasa selama 8 jam. (0=no; 1=yes)
